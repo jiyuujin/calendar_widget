@@ -13,8 +13,8 @@ dependencies:
     sdk: flutter
 
   calendar_logic:
-    path:
-      ../calendar_logic
+    git:
+      url: https://github.com/chooyan-eng/calendar_logic.git
 
 dev_dependencies:
   flutter_test:

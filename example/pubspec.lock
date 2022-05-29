@@ -18,9 +18,11 @@ packages:
   calendar_logic:
     dependency: transitive
     description:
-      path: "../../calendar_logic"
-      relative: true
-    source: path
+      path: "."
+      ref: HEAD
+      resolved-ref: cc61f834cc00ae6c544555231c7a5dfdcdd2c18a
+      url: "https://github.com/chooyan-eng/calendar_logic.git"
+    source: git
     version: "1.0.0"
   calendar_widget:
     dependency: "direct main"
